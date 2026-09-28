@@ -473,9 +473,7 @@ Possible extensions of this project include:
 
 ---
 
-# Author
 
-**Atrih Wassim**
 
 Control Systems | Optimization | MATLAB
 
